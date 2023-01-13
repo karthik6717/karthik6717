@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">Data Science Aspirant</h3>
 <img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik6717&label=Profile%20views&color=0e75b6&style=flat" alt="karthik6717" /> </p>
+c
 
 - 🔭 I’m currently working on **openCV**
 
