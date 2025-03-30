@@ -69,7 +69,7 @@
   <a href="https://www.leetcode.com/karthik_17">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white">
   </a>
-  <a href="https://instagram.com/__karthik__999">
+  <a href="https://www.instagram.com/karthik__g.k/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
 </p>
